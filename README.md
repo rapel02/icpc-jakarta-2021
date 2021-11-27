@@ -4,25 +4,25 @@
 
 Each problem (from PA to PD for trial and A to M for contest) has their own folder. The folder name is the `slug` of the problem, which is the codename we used when we internally prepare the problems. The following table describes the slug for each problem
 
-| Problem Code | Problem Slug   | Problem Title              |
-| ------------ | -------------- | -------------------------- |
-| PA           | double         | Non Classical Problem      |
-| PB           | homework       | Copying Homework           |
-| PC           | bottleneck     | Exchange Bottleneck        |
-| PD           | beauty         | Tree Beauty                |
-| A            | xor            | XOR Pairs                  |
-| B            | bike           | Bicycle Tour               |
-| C            | energy         | Energy Generation          |
-| D            | uniform        | Uniform Maker              |
-| E            | concert        | Concerto de Pandemic       |
-| F            | not-one        | Not One                    |
-| G            | greedy         | Greedy Knapsack            |
-| H            | cell-game      | Cell Game                  |
-| I            | planetary      | Stable Planetary System    |
-| J            | robot          | Feeder Robot               |
-| K            | tree           | White-Black Tree           |
-| L            | travelling     | Happy Travelling           |
-| M            | maxdiff        | Maxdifficent Group         |
+| Problem Code | Problem Slug      | Problem Title              |
+| ------------ | ----------------- | -------------------------- |
+| PA           | double            | Non Classical Problem      |
+| PB           | homework          | Copying Homework           |
+| PC           | bottleneck        | Exchange Bottleneck        |
+| PD           | beauty            | Tree Beauty                |
+| A            | xor               | XOR Pairs                  |
+| B            | bike              | Bicycle Tour               |
+| C            | energy-generation | Energy Generation          |
+| D            | uniform           | Uniform Maker              |
+| E            | concert           | Concerto de Pandemic       |
+| F            | not-one           | Not One                    |
+| G            | greedy            | Greedy Knapsack            |
+| H            | cell-game         | Cell Game                  |
+| I            | planetary         | Stable Planetary System    |
+| J            | robot             | Feeder Robot               |
+| K            | tree              | White-Black Tree           |
+| L            | travelling        | Happy Travelling           |
+| M            | maxdiff           | Maxdifficent Group         |
 
 In the problem folder, there should be exactly the following file/folder:
 
@@ -40,25 +40,25 @@ In the problem folder, there should be exactly the following file/folder:
 
 The following table describes the time limit for each problem.
 
-| Problem Code | Problem Slug   | Time Limit |
-| ------------ | -------------- | ---------- |
-| PA           | double         | 1 sec      |
-| PB           | homework       | 1 sec      |
-| PC           | bottleneck     | 1 sec      |
-| PD           | beauty         | 2 sec      |
-| A            | xor            | 1 sec      |
-| B            | bike           | 1 sec      |
-| C            | energy         | 1 sec      |
-| D            | uniform        | 1 sec      |
-| E            | concert        | 2 sec      |
-| F            | not-one        | 1 sec      |
-| G            | greedy         | 1 sec      |
-| H            | cell-game      | 2 sec      |
-| I            | planetary      | 1 sec      |
-| J            | robot          | 1 sec      |
-| K            | tree           | 1 sec      |
-| L            | travelling     | 1 sec      |
-| M            | maxdiff        | 1 sec      |
+| Problem Code | Problem Slug      | Time Limit |
+| ------------ | ----------------- | ---------- |
+| PA           | double            | 1 sec      |
+| PB           | homework          | 1 sec      |
+| PC           | bottleneck        | 1 sec      |
+| PD           | beauty            | 2 sec      |
+| A            | xor               | 1 sec      |
+| B            | bike              | 1 sec      |
+| C            | energy-generation | 1 sec      |
+| D            | uniform           | 1 sec      |
+| E            | concert           | 2 sec      |
+| F            | not-one           | 1 sec      |
+| G            | greedy            | 1 sec      |
+| H            | cell-game         | 2 sec      |
+| I            | planetary         | 1 sec      |
+| J            | robot             | 1 sec      |
+| K            | tree              | 1 sec      |
+| L            | travelling        | 1 sec      |
+| M            | maxdiff           | 1 sec      |
 
 The memory limit for all problems is 256MB.
 
