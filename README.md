@@ -42,7 +42,6 @@ The following table describes the time limit for each problem.
 
 | Problem Code | Problem Slug   | Time Limit |
 | ------------ | -------------- | ---------- |
-| A            | comic          | 1 sec      |
 | PA           | double         | 1 sec      |
 | PB           | homework       | 1 sec      |
 | PC           | bottleneck     | 1 sec      |
